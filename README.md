@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Carl B</h1>
+<h1>Hi 👋, I'm Carl Barria</h1>
 <h3>A passionate Backend developer from Philippines</h3>
 
 <h3 align="left">Connect with me:</h3>
